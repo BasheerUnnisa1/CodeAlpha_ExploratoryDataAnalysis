@@ -3,6 +3,7 @@
 
 ## 📌 Description
 ---
+
 This project analyzes the Netflix Titles dataset using Python to generate meaningful insights through Exploratory Data Analysis (EDA) and data visualization. 
 The dataset is used to study content distribution, release trends, ratings, genres, and movie duration patterns on Netflix.
 
@@ -43,8 +44,6 @@ The workflow includes data loading → cleaning → analysis → visualization �
 ---
 
 ## Repository Structure
----
-
 ```text
 CodeAlpha_ExploratoryDataAnalysis
 │
