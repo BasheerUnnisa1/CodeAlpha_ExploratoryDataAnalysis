@@ -1,17 +1,17 @@
 # 🎬 Netflix Exploratory Data Analysis (EDA)
------
+---
 
 ## 📌 Description
-----
-
+---
 This project analyzes the Netflix Titles dataset using Python to generate meaningful insights through Exploratory Data Analysis (EDA) and data visualization. 
 The dataset is used to study content distribution, release trends, ratings, genres, and movie duration patterns on Netflix.
 
 The workflow includes data loading → cleaning → analysis → visualization → extraction of business insights.
 ---
 
+
 # 🛠️ Technologies Used
-------
+---
 
 | Category | Tools |
 |---|---|
@@ -22,7 +22,6 @@ The workflow includes data loading → cleaning → analysis → visualization �
 | Seaborn | Statistical Visualization |
 | Jupyter Notebook | Interactive Analysis Environment |
 | Git & GitHub | Version Control & Project Hosting |
-
 ---
 
 ✨ Features
