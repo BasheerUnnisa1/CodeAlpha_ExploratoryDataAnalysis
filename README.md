@@ -4,14 +4,11 @@
 ## 📌 Description
 ---
 
-This project analyzes the Netflix Titles dataset using Python to generate meaningful insights through Exploratory Data Analysis (EDA) and data visualization. 
-The dataset is used to study content distribution, release trends, ratings, genres, and movie duration patterns on Netflix.
+This project analyzes the Netflix Titles dataset using Python to generate meaningful insights through Exploratory Data Analysis (EDA) and data visualization. The dataset is used to study content distribution, release trends, ratings, genres, and movie duration patterns on Netflix.
 
-The workflow includes data loading → cleaning → analysis → visualization → extraction of business insights.
----
+The workflow includes data loading, cleaning, analysis, visualization, and extraction of business insights.
 
-
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 ---
 
 | Category | Tools |
@@ -23,27 +20,22 @@ The workflow includes data loading → cleaning → analysis → visualization �
 | Seaborn | Statistical Visualization |
 | Jupyter Notebook | Interactive Analysis Environment |
 | Git & GitHub | Version Control & Project Hosting |
----
 
-✨ Features
----
+## ✨ Features
 
-* Data cleaning and preprocessing using Pandas
-* Exploratory Data Analysis (EDA) on Netflix dataset
-* Professional data visualizations using Matplotlib and Seaborn
-* Analysis of Netflix content trends and distribution
-* Country-wise, ratings, and genre-based analysis
-* Extraction of meaningful business insights from data
----
+* Data cleaning and preprocessing using Pandas  
+* Exploratory Data Analysis (EDA) on Netflix dataset  
+* Professional data visualizations using Matplotlib and Seaborn  
+* Analysis of Netflix content trends and distribution  
+* Country-wise, ratings, and genre-based analysis  
+* Extraction of meaningful business insights from data  
 
-# ▶️ Demo Video
-----
+## ▶️ Demo Video
 
 ▶️ Watch the project demonstration here:
 
----
+## 📁 Repository Structure
 
-## Repository Structure
 ```text
 CodeAlpha_ExploratoryDataAnalysis
 │
@@ -58,10 +50,8 @@ CodeAlpha_ExploratoryDataAnalysis
 │   └── movie_duration.png
 └── README.md                          # Project documentation
 ```
----
 
-## How to Run
----
+## ⚙️ How to Run
 
 ### 1️⃣ Clone the repository
 
@@ -93,48 +83,42 @@ jupyter notebook
 EDA_Project.ipynb
 ```
 
----
-
-## Output
----
+## 📌 Output
 
 * Netflix content distribution insights  
 * Country-wise content analysis  
 * Ratings distribution analysis  
 * Genre popularity analysis  
 * Movie duration trend analysis  
-* Content release trend visualization 
+* Content release trend visualization  
 
 # 📊 Visualizations
 
 ### 🎥 Movies vs TV Shows Distribution
----
+
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
 ### 🌍 Top 10 Countries Producing Netflix Content
----
+
 ![Top Countries](images/top_countries.png)
 
 ### 📈 Netflix Content Release Trend
----
+
 ![Release Trend](images/release_trend.png)
 
 ### ⭐ Most Common Ratings on Netflix
----
+
 ![Ratings](images/ratings.png)
 
 ### 🎭 Top 10 Genres on Netflix
----
+
 ![Genres](images/genres.png)
 
 ### ⏱️ Distribution of Movie Durations
----
+
 ![Movie Duration](images/movie_duration.png)
 
----
-
-## Skills Demonstrated
----
+## 🔍 Skills Demonstrated
 
 * Data Cleaning  
 * Exploratory Data Analysis (EDA)  
@@ -143,11 +127,9 @@ EDA_Project.ipynb
 * Business Insight Generation  
 * Python Programming  
 * Git & GitHub Workflow  
----
 
-## Author
----
+## 👩‍💻 Author
 
-### Shaik Basheer Unnisa  
+### Shaik Basheer Unnisa
 
 > Python Developer | Data Analysis Enthusiast
