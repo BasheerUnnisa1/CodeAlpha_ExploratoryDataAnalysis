@@ -1,33 +1,30 @@
-# 🎬 Netflix Exploratory Data Analysis (EDA)
-
+# Exploratory Data Analysis – Netflix Content Dataset
 
 ## 📌 Description
 
-This project analyzes the Netflix Titles dataset using Python to generate meaningful insights through Exploratory Data Analysis (EDA) and data visualization. The dataset is used to study content distribution, release trends, ratings, genres, and movie duration patterns on Netflix.
+This project analyzes the Netflix Titles dataset to uncover insights related to content distribution, release trends, ratings, genres, and duration patterns.
 
-The workflow includes data loading, cleaning, analysis, visualization, and extraction of business insights.
+It involves data cleaning, exploratory analysis, visualization, and extraction of meaningful insights using Python.
 
 ## 🛠️ Technologies Used
 
 | Category | Tools |
-|---|---|
-| Python | Programming Language |
-| Pandas | Data Manipulation & Analysis |
-| NumPy | Numerical Operations |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
-| Jupyter Notebook | Interactive Analysis Environment |
-| Git & GitHub | Version Control & Project Hosting |
+|----------|------|
+| Programming Language | Python |
+| Data Handling | Pandas |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Environment | Jupyter Notebook |
+| Version Control | Git & GitHub |
 
 ## ✨ Features
 
 * Data cleaning and preprocessing using Pandas  
-* Exploratory Data Analysis (EDA) on Netflix dataset  
-* Professional data visualizations using Matplotlib and Seaborn  
-* Analysis of Netflix content trends and distribution  
-* Country-wise, ratings, and genre-based analysis  
-* Extraction of meaningful business insights from data  
-
+* Exploratory data analysis (EDA) on Netflix dataset  
+* Visualization of content distribution and trends using Matplotlib and Seaborn  
+* Analysis of Netflix content by country, rating, and genre  
+* Identification of patterns in content release and duration  
+* Extraction of meaningful insights for data-driven understanding
+  
 ## ▶️ Demo Video
 
 ▶️ Watch the project demonstration here:
@@ -118,16 +115,16 @@ EDA_Project.ipynb
 
 ## 🔍 Skills Demonstrated
 
-* Data Cleaning  
+* Data Cleaning and Preprocessing  
 * Exploratory Data Analysis (EDA)  
-* Data Visualization  
-* Trend Analysis  
-* Business Insight Generation  
-* Python Programming  
-* Git & GitHub Workflow  
-
+* Data Visualization and Storytelling  
+* Trend and Pattern Analysis  
+* Business Insight Extraction  
+* Python for Data Analysis  
+* Git & GitHub Version Control
+  
 ## 👩‍💻 Author
 
 ### Shaik Basheer Unnisa
 
-> Python Developer | Data Analysis Enthusiast
+> Aspiring Data Analyst | EDA Enthusiast
