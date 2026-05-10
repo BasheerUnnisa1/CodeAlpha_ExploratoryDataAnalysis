@@ -27,7 +27,9 @@ It involves data cleaning, exploratory analysis, visualization, and extraction o
   
 ## ▶️ Demo Video
 
-▶️ Watch the project demonstration here:
+▶️ Watch the project demonstration here: 
+
+[Demo Vedio](https://youtu.be/i6AmLvtU940)
 
 ## 📁 Repository Structure
 
